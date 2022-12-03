@@ -23,11 +23,13 @@ _ Capítulo 1 {
 [ ] Montar a parte física;
 [ ] Configurar o Raspberry e junta-lo à parte física;
 [ ] Atualizar o repositório.
+
 2º mês:
 [ ] Entendendo o projeto;
 [ ] Apredendo Inteligência Artificial com IBM Watson;
 [ ] Educando a IA para o Fab Lab Livre SP;
 [ ] Atualizar o repositório.
+
 3º mês:
 [ ] Educando a IA para o Fab Lab Livre SP Cidade Tiradentes;
 [ ] TJBot participando do laboratório e das oficinas;
